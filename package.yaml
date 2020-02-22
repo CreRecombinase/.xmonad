@@ -1,10 +1,10 @@
-name: xmonad-<yourname>
+name: xmonad-nwknoblauch
 version: 0.1.0
 synopsis: xmonad setting
-github: <yourname>/.xmonad
-author: <yourname>
-maintainer: <youremail>@example.com
-copyright: © <yourname>
+github: CreRecombinase/.xmonad
+author: Nicholas Knoblauch
+maintainer: nwknoblauch@gmail.com
+copyright: © Nicholas Knoblauch
 license: MIT
 dependencies:
   - X11
